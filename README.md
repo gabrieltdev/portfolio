@@ -1,2 +1,3 @@
 # Portfolio
-projeto feito na alura 
+primeiro projeto feito na alura 
+https://portfoliogabriel-nu.vercel.app/
